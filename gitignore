@@ -1,0 +1,22 @@
+# Ignore large files
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.sam
+*.vcf
+*.vcf.idx
+*.zip
+*.tar.gz
+*.png
+*.pdf
+*.html
+*.txt
+*.tab
+*.fai
+*.dict
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
